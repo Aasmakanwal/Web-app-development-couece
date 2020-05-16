@@ -1,0 +1,49 @@
+
+
+.pro{
+    border: solid 2px gray ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 70px;
+    background-color: rgb(125, 235, 235);
+    text-align: center;
+    border-radius: 20px;
+}
+.select{
+    border: solid 2px gray ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 70px;
+    background-color: rgb(199, 165, 204);
+    text-align: center;
+    border-radius: 20px;
+}
+
+.box{
+    border:  solid 2px gray ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 70px;
+    background-color: rgb(216, 205, 154);
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+
+.slide{
+    border: solid 2px rgb(109, 6, 69) ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 70px;
+    background-color: rgb(213, 230, 230);
+    text-align: center;
+    border-radius: 20px;;
+    font-size: large;
+}
+
+
